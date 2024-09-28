@@ -1,8 +1,8 @@
 ## VisualComputation
 #Required Installations
 Python3
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu \n
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117 \n
 pip3 install "pix2tex[gui]"
 pip3 install PyQt5
 pip3 install Pillow
