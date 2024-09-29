@@ -14,7 +14,7 @@ import urllib.request
 
 # Initialize the OCR model
 model = LatexOCR()
-WOLFRAM_APP_ID = 'K5UYVW-E5W4885T7H'  # Replace with your App ID
+WOLFRAM_APP_ID = 'YOUR_KEY'  # Replace with your App ID
 
 class App(QWidget):
     def __init__(self):
