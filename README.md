@@ -9,8 +9,12 @@ pip3 install PyQt5
 pip3 install Pillow
 pip3 install requests
 pip3 install pyobjc #MacOS Only
+```
 #Wolfram API Key
+```sh
 WOLFRAM_APP_ID = 'YOUR_WOLFRAM_ALPHA_APP_ID'  # Replace with your App ID
+```
 #Run the Application
+```sh
 python3 app.py
 ```
