@@ -5,7 +5,8 @@ Converts performs computations on images of equations using Wolfram API and [pix
 **Required Installations** \
 Python3
 ```sh
-pip3 install matplotlib
+pip3 install sympy
+pip3 install PyQtWebEngine
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 pip3 install "pix2tex[gui]"
