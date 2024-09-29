@@ -1,5 +1,8 @@
 ## VisualComputation
-**Required Installations**
+A HackGT Project. \
+Converts performs computations on images of equations using Wolfram API and [pix2tex API](https://github.com/lukas-blecher/LaTeX-OCR).
+
+**Required Installations** \
 Python3
 ```sh
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
