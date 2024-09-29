@@ -21,5 +21,5 @@ WOLFRAM_APP_ID = 'YOUR_WOLFRAM_ALPHA_APP_ID'  # Replace with your Wolfram App ID
 ```
 **Run the Application**
 ```sh
-python3 app.py
+python3 visualcomputation.py
 ```
