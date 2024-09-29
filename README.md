@@ -12,7 +12,7 @@ pip3 install pyobjc #MacOS Only
 ```
 #Wolfram API Key
 ```sh
-WOLFRAM_APP_ID = 'YOUR_WOLFRAM_ALPHA_APP_ID'  # Replace with your App ID
+WOLFRAM_APP_ID = 'YOUR_WOLFRAM_ALPHA_APP_ID'  # Replace with your Wolfram App ID
 ```
 #Run the Application
 ```sh
